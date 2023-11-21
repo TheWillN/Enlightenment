@@ -1,6 +1,4 @@
-# MeshONE-T
-
-## **Setup Notes**
+# **Setup Notes**
 
 ### For most of the tasks, you will need your workstation to be setup with the programs listed below in addition to having the [GitHub repository](https://github.com/Sev1Tech/MeshONE-T/blob/master/documentation/Instructionals/GitHubLocalSetup.MD) setup locally
 
