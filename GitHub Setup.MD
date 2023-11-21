@@ -2,9 +2,6 @@
 
 ## Directions
 
-* To view templates for various site tiers go [here](https://github.com/Sev1Tech/MeshONE-T/tree/master/documentation/ansible/roles/create-cable-table/templates).
-* To view items/cable runs for sites go [here](https://github.com/Sev1Tech/MeshONE-T/tree/master/documentation/ansible/configs).
-
 ## **Setup Notes**
 
 ### For most of the tasks, you will need your workstation to be setup with the programs listed below in addition to having the [GitHub repository](https://github.com/Sev1Tech/MeshONE-T/blob/master/documentation/Instructionals/GitHubLocalSetup.MD) setup locally
