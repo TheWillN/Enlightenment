@@ -78,7 +78,7 @@ ___
 git clone https://github.com/your_repo
 ```
 
-* This command will clone the MeshONE-T repository for you to use locally.  
+* This command will clone the repository for you to use locally.  
 * This should only need to be done once.  
 
 ___
