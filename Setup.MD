@@ -1,13 +1,13 @@
 # **Setup Notes**
 
-### For most of the tasks, you will need your workstation to be setup with the programs listed below in addition to having the [GitHub repository](https://github.com/TheWillN/Enlightenment) setup locally
+## For most of the tasks, you will need your workstation to be setup with the programs listed below in addition to having the [GitHub repository](https://github.com/TheWillN/Enlightenment) setup locally
 
 > Programs needed:
 >
 > * Windows Subsystem for Linux ([WSL](https://learn.microsoft.com/en-us/windows/wsl/install)) or a Linux OS
 > * [Python](https://www.python.org/)
 > * [Ansible](https://www.ansible.com/)
-> * [Visual Studio Code](https://code.visualstudio.com/) (optional)
+> * [Visual Studio Code](https://code.visualstudio.com/)
 >
 > _Note_ You can edit files with the online VSC Editor which can be accessed by pressing the `.` button here.  
 ___
@@ -25,4 +25,5 @@ ___
 
 ___
 
-> _Note_ that instead of using PowerShell, you can accomplish all of these steps from within [Visual Studio Code](https://code.visualstudio.com/) or another text editor/IDE.
+> _Note_ that instead of using PowerShell, you can accomplish all of these steps from within [Visual Studio Code](https://code.visualstudio.com/) by to _Terminal_ then selecting _New Terminal_.  
+> Alternatively you can use the keyboard shortcut ```Ctrl Shift ` ```
