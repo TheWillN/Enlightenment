@@ -25,5 +25,6 @@ ___
 
 ___
 
-> _Note_ you can accomplish all of these steps from within [Visual Studio Code](https://code.visualstudio.com/) by to _Terminal_ then selecting _New Terminal_.  
-> Alternatively you can use the keyboard shortcut ```Ctrl Shift ` ```
+> _Note_ you can accomplish all of these steps from within [Visual Studio Code](https://code.visualstudio.com/) by going to _Terminal_ then selecting _New Terminal_.  
+>
+> * Alternatively you can use the keyboard shortcut ```Ctrl Shift ` ```
