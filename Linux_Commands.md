@@ -16,6 +16,7 @@ The “-h” is for human readable.  This is helpful when looking at sizes.
 
 These modifiers can also stack:
 ```ls -lh```
+___
 
 ## Change Directory
 
@@ -27,9 +28,25 @@ This command allows you to move around within the directories.  After you displa
 ```cd```
  into a directory of your choice. To go back one directory enter the command:
 ```cd ..```
+___
 
 ## Present Working Directory
 
 ```pwd```
 
 This command lets you know where you are, to avoid confusion when you are moving around in various directories or have similar file names in multiple places.
+___
+
+## Touch
+```touch <file.txt>```
+
+The _touch_ command is a way to create a blank file.  
+> Use the ```ls``` command to verify it was created.  
+___
+
+## Nano
+```nano <file.txt>```
+
+_Nano_ is a text editor.  using the ```nano``` command will open the file you specify for editing.  If the file you name does not exist, it will be created.  
+___
+
