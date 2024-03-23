@@ -1,5 +1,7 @@
 # Linux Commands
 
+> These are commands to navigate and operate within the command-line interface (CLI).  On a desktop machine, open the Terminal application to access the CLI.  
+
 ## List command
 
 ```ls```
@@ -38,15 +40,41 @@ This command lets you know where you are, to avoid confusion when you are moving
 ___
 
 ## Touch
-```touch <file.txt>```
+
+```touch testfile.txt```
 
 The _touch_ command is a way to create a blank file.  
 > Use the ```ls``` command to verify it was created.  
 ___
 
 ## Nano
-```nano <file.txt>```
+
+```nano testfile.txt```
 
 _Nano_ is a text editor.  using the ```nano``` command will open the file you specify for editing.  If the file you name does not exist, it will be created.  
+___
+
+## Concatenate
+
+```cat testfile.txt```
+
+Shortened to _cat_, you can use the ```cat``` command to display the contents of a file to the CLI.  
+
+Another use is to redirect the output to another file using the greater-than operator.
+```cat testfile.txt > otherfile.txt```
+___
+
+## Copy
+
+```cp testfile.txt otherfile.txt```
+
+The ```cp``` command copies the entirety of a file to another file.  
+___
+
+## Manual
+
+```man touch```
+
+The ```man``` command followed by another command will provide all the options associated with that command.  Press the "q" to quit the man page.  
 ___
 
