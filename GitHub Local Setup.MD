@@ -47,6 +47,10 @@ git clone https://github.com/your_repo
 * This command will clone the repository for you to use locally.  
 * This should only need to be done once.  
 
+ > The best practice is for you to clone and make your own branch of the  repository.  This would allow you to make and test changes within your branch repository without affecting the main repository.  Then once completed you would merge your branch with the main branch.  
+
+[Here](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-branches) is a link explaining branches.  
+
 ___
 > After you have made your changes to the files within your local repository, check the status using the following command.
 
@@ -86,8 +90,10 @@ git commit -m "commit message"
 ___
 
 ```git
-git push -u origin master       
+git push origin master       
 ```
+
+> _Note_ that your repository might be different from ```origin master``` especially if you create a branch.  
 
 * Pushes the commit to the origin repository.  
 
