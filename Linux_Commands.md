@@ -1,6 +1,8 @@
 # Linux Commands
 
-> These are commands to navigate and operate within the command-line interface (CLI).  On a desktop machine, open the Terminal application to access the CLI.  
+These are commands to navigate and operate within the command-line interface (CLI).  On a desktop machine, open the Terminal application to access the CLI.  
+
+If you are using Windows Subsystem for Linux than access the terminal within VSCode by going to the menu bar and selecting _Terminal_, then _New Terminal_ in the drop down that appears.  
 
 ## List command
 
